@@ -1,0 +1,18 @@
+.greet {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-size: large;
+}
+
+.hi {
+  font-size: medium;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.App {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  margin-top: 0%;
+}
